@@ -4,7 +4,7 @@ My First Angular
 ##Objectives
 For this mini-project you're going to create a basic angular Application from scratch. Getting used to structuring your Angular application is an important skill to get right. Many times as beginners the hardest part about Angular is figuring out where to put stuff. Hopefully this project will start you on the right path so you can correctly structure all your Angular projects in the future.
 
-###Step 1: HTML Skeleton 
+###Step 1: HTML Skeleton  
 * Fork this repo, then clone your fork.
 * Create a 'index.html' file, a 'styles.css' file, and a 'js' folder.
 * In your 'index.html' file create a basic skeleton of your application. Be sure to include the following
@@ -88,5 +88,5 @@ Chelsey
 * Good luck and congrats on building your first (of many) angular apps!
 
 ## Copyright
-
+ 
 © DevMountain LLC, 2016. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
